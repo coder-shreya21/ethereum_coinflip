@@ -1,0 +1,8 @@
+my-coinflip-game/
+├── public/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+├── api/
+│   └── flipcoin.js
+└── vercel.json
